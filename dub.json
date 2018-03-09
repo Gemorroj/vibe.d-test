@@ -4,7 +4,7 @@
 		"Gemorroj"
 	],
 	"dependencies": {
-		"vibe-d": "~>0.8.2"
+		"vibe-d": "~>0.8.3"
 	},
 	"subConfigurations": {
 		"vibe-d": "win32"
