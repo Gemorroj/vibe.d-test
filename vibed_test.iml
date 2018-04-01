@@ -11,7 +11,7 @@
     <orderEntry type="library" name="vibe-d:crypto-0.8.3" level="project" />
     <orderEntry type="library" name="vibe-d:core-0.8.3" level="project" />
     <orderEntry type="library" name="vibe-d:utils-0.8.3" level="project" />
-    <orderEntry type="library" name="stdx-allocator-2.77.0" level="project" />
+    <orderEntry type="library" name="stdx-allocator-2.77.1" level="project" />
     <orderEntry type="library" name="vibe-d:data-0.8.3" level="project" />
     <orderEntry type="library" name="vibe-core-1.4.0" level="project" />
     <orderEntry type="library" name="eventcore-0.8.34" level="project" />
