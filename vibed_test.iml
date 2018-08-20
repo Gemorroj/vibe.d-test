@@ -13,18 +13,18 @@
     <orderEntry type="library" name="vibe-d:utils-0.8.4" level="project" />
     <orderEntry type="library" name="stdx-allocator-2.77.2" level="project" />
     <orderEntry type="library" name="vibe-d:data-0.8.4" level="project" />
-    <orderEntry type="library" name="vibe-core-1.4.0" level="project" />
+    <orderEntry type="library" name="vibe-core-1.4.1" level="project" />
     <orderEntry type="library" name="eventcore-0.8.35" level="project" />
     <orderEntry type="library" name="taggedalgebraic-0.10.11" level="project" />
     <orderEntry type="library" name="libasync-0.8.3" level="project" />
-    <orderEntry type="library" name="memutils-0.4.10" level="project" />
+    <orderEntry type="library" name="memutils-0.4.11" level="project" />
     <orderEntry type="library" name="libevent-2.0.2+2.0.16" level="project" />
     <orderEntry type="library" name="mir-linux-kernel-1.0.0" level="project" />
     <orderEntry type="library" name="vibe-d:http-0.8.4" level="project" />
     <orderEntry type="library" name="vibe-d:tls-0.8.4" level="project" />
     <orderEntry type="library" name="vibe-d:stream-0.8.4" level="project" />
     <orderEntry type="library" name="openssl-1.1.6+1.0.1g" level="project" />
-    <orderEntry type="library" name="botan-1.12.9" level="project" />
+    <orderEntry type="library" name="botan-1.12.10" level="project" />
     <orderEntry type="library" name="botan-math-1.0.3" level="project" />
     <orderEntry type="library" name="vibe-d:inet-0.8.4" level="project" />
     <orderEntry type="library" name="vibe-d:textfilter-0.8.4" level="project" />
