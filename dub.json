@@ -4,12 +4,12 @@
 		"Gemorroj"
 	],
 	"dependencies": {
-		"vibe-d": "~>0.8.3"
+		"vibe-d": "~>0.8.4"
 	},
     "subConfigurations": {
         "vibe-d": "win32"
     },
 	"description": "A simple vibe.d server application.",
 	"copyright": "Copyright © 2017, Gemorroj",
-	"license": "proprietary"
+	"license": "MIT"
 }
